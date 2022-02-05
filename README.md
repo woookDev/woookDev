@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p>
   👋&nbsp; Hi there! I'm <b>Software Engineer</b>!<br/>
-  I am working as iOS Developer but regardless of domain, platform, I love to learn coding.
+  I am working as iOS Developer but regardless of domain, platform, I love to learn coding.<br/><br/>
   I am mostly interested in mobile developing. iOS, Android, Fluter and so on.<br/><br/>
   I enjoy snowboarding, traveling and Coding⛰<br/>
   I try to keep making something awesome, anything I want to develop <br/><br/>
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 <p>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
 
 <p>
