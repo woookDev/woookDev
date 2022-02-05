@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
 </p>
 
 ### Tools
@@ -52,3 +53,5 @@ Here are some ideas to get you started:
 </p>
 
 ![WoookDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=woookDev&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woookDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
