@@ -34,6 +34,9 @@
   <img src="https://img.shields.io/badge/Fastlane-B7178C?style=flat-square&logo=Fastlane&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-00F200?style=flat-square&logo=React&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/ReactNative-F05032?style=flat-square&logo=ReactNative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-B7178C?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-3776AB?style=flat-square&logo=NestJS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-39477F?style=flat-square&logo=Java&logoColor=white"/>
 </p>
 
 ![WoookDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=woookDev&show_icons=true&theme=radical)
