@@ -14,7 +14,7 @@
   I try to keep making something awesome, anything I want to develop <br/><br/>
 </p>
 
-<h3 align="center"💪 Skills - Recently Focusing On</h3>
+<h3 align="center">💪 Skills - Recently Focusing On</h3>
 
 <p align=center>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
@@ -33,6 +33,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
-![WoookDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=woookDev&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=woookDev&repo=github-readme-stats" />
+</a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Coding%20to%20Coding&fontSize=60&animation=twinkling)
