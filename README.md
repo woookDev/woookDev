@@ -31,10 +31,10 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=Fastlane&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-00F200?style=flat-square&logo=React&logoColor=white"/>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=woookDev&repo=github-readme-stats" />
-</a>
+![WoookDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=woookDev&show_icons=true&theme=radical)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Coding%20to%20Coding&fontSize=60&animation=twinkling)
