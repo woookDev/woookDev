@@ -35,10 +35,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 </p>
 
+### Languages
+
 <p>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
+
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
@@ -46,3 +50,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
+
+![WoookDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=woookDev&show_icons=true&theme=radical)
