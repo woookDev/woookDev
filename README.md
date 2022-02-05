@@ -28,11 +28,12 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/><br/>
   <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=Fastlane&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-00F200?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastlane-B7178C?style=flat-square&logo=Fastlane&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-00F200?style=flat-square&logo=React&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/ReactNative-F05032?style=flat-square&logo=ReactNative&logoColor=white"/>
 </p>
 
 ![WoookDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=woookDev&show_icons=true&theme=radical)
