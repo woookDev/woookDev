@@ -1,19 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WoookDev&fontSize=90&animation=twinkling)
 
-<!--
-**woookDev/woookDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <p>
   <a href="http://https://woookdev.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
@@ -21,7 +7,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>Software Engineer</b>!<br/>
+  👋&nbsp; Hi there! I'm Jaewook. A Steady learning <b>Software Engineer</b>!<br/>
   I am working as iOS Developer but regardless of domain, platform, I love to learn coding.<br/><br/>
   I am mostly interested in mobile developing. iOS, Android, Fluter and so on.<br/><br/>
   I enjoy snowboarding, traveling and Coding⛰<br/>
@@ -30,14 +16,14 @@ Here are some ideas to get you started:
 
 ### 💪 Skills
 
-<p>
+<p align=center>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 </p>
 
 ### Languages
 
-<p>
+<p align=center>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
@@ -45,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Tools
 
-<p>
+<p align=center>
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/>
@@ -54,4 +40,4 @@ Here are some ideas to get you started:
 
 ![WoookDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=woookDev&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woookDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Coding%20to%20Coding&fontSize=60&animation=twinkling)
